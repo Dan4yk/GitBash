@@ -1,4 +1,0 @@
-git log --pretty=oneline - sa vizualizam pe scurt istoria.
-git log --pretty=oneline --max-count=3 - ultimele 3 comituri
-git log --pretty=oneline --all - toate commiturile
-git log --pretty=format:"%h - %s : %ad [%an]" --date=short - de avazut datele comiturilor in format mai scurt.
